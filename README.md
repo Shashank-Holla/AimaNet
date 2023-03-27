@@ -1,4 +1,4 @@
-# AimaNet
+# AimaNet - Detecting Heart Rate from Facial Videos
 
 To run the model on Carbonate machine.
 
